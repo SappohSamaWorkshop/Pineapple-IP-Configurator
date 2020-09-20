@@ -45,3 +45,12 @@ to do this use the default browser, it is useful to open the interface once netw
 <h4>Requirements</h4>
 
 The Network MUST be named "WIFI_PINEAPPLE" (u can use the function "3" of this utility)
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
